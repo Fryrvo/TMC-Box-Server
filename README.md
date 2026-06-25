@@ -30,14 +30,13 @@ This modpack contains performance, management, utility mod without touching any 
 - [Lithium](https://modrinth.com/mod/lithium)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [Krypton](https://modrinth.com/mod/krypton)
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [C2ME](https://modrinth.com/mod/c2me-fabric)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
  
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [AppleSkin](https://modrinth.com/mod/appleskin)
-- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [No Chat Restrictions]([https://modrinth.com/mod/no-chat-reports](https://modrinth.com/mod/no-chat-restrictions))
 - [Chunky](https://modrinth.com/plugin/chunky)
 
 
