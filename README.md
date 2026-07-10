@@ -1,12 +1,14 @@
 ## Technical Minecraft Box (server)
-**A lightweight optimization, utility and more for fabric server**
 
-This modpack contains performance, management, utility mod without touching any Vanilla game Mechanics although this can be configured in mod configuration itself by by default this modpack did not effect any vanilla mechanics 
+**A lightweight, optimized performance and utility toolkit for Fabric servers.**
+
+Technical Minecraft Box (Server) is designed to optimize server performance and add essential management for TMC server tools without altering vanilla game mechanics. 
+provides a stable foundation for technical survival servers.
 
 ### Features
-* **Performance Optimization:**
-* **Server-Side Technical Utilities:** 
-* **Logging & Management:**
+* **Performance Optimization:**  Includes Lithium, Krypton, C2ME, and VMP to reduce server lag and improve tick rates.
+* **Server-Side Technical Utilities:** Features Carpet, Servux, and Litematica Server Paster for Server-Side Utilities
+* **Logging & Management:** Includes Ledger and Spark
 
 **Latest release mod list** 
 
@@ -44,14 +46,16 @@ This modpack contains performance, management, utility mod without touching any 
 
 **More details about modpack**
 
+>**_Installation_**
+> 
+>**Direct Install**: If your server hosting provider supports ⁠`.mrpack`⁠ files, you can upload the file directly
+>
+>**Manual Install**: If your host does not support ⁠`.mrpack` files, you can use [.mrpack⁠ to ⁠.zip](https://fabulously-optimized.github.io/mrpack-to-zip)⁠ converter and upload the mod files manually to your server's `⁠/mods⁠` directory.
+
 > _**Version**_ 
 > 
 > This modpack is for Server side although it work perfectly fine with Client or Singleplayer Somemod for Dedicated server will not work but game I'll run >perfectly fine it more recommended to use [Client Version](https://modrinth.com/project/tmc-box-client)
 
-> _**Contributed to this project**_ 
-> 
-> You can contribute to this project by open pull request in GitHub
-
 > _**License**_
 > 
-> This project is under MIT License
+> This project is under [MIT License](https://mit-license.org)
